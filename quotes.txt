@@ -1,0 +1,109 @@
+Good morning. It's 7 A.M. The weather in Malibu is 72 degrees with scattered clouds. The surf conditions are fair with waist to shoulder highlines, high tide will be at 10:52 a.m.
+
+"J.A.R.V.I.S., are you up?"
+"For you sir, always."
+"I'd like to open a new project file, index as: Mark II."
+"Shall I store this on the Stark Industries' central database?"
+"I don't know who to trust right now. 'Til further notice, why don't we just keep everything on my private server."
+"Working on a secret project, are we, sir?"
+"I don't want this winding up in the wrong hands. Maybe in mine, it could actually do some good."
+
+"J.A.R.V.I.S., you there?"
+"At your service, sir."
+"Engage heads up display."
+"Check."
+"Import all preferences from home interface."
+"Will do, sir."
+"Alright, what do you say?"
+"I have indeed been uploaded, sir. We're online and ready."
+"Can we start the virtual walk-around?"
+"Importing preferences and calibrating virtual environment."
+"Do a check on the control surfaces."
+"As you wish."
+
+"Test complete. Preparing to power down and begin diagnostics."
+"Uh, yeah, tell you what. Do a weather and ATC check, start listening in on ground control."
+"Sir, there are still terabytes of calculations required before an actual flight is—"
+"J.A.R.V.I.S., sometimes you gotta run before you can walk. Ready in three... two... one."
+
+"Alright, let's see what this thing can do. What's SR-71's record."
+"The altitude record for fixed wing flight is eighty-five thousand feet, sir."
+"Records are made to be broken. Come on!"
+
+
+"Sir, there is a potentially fatal buildup of ice occurring."
+"Keep going! Higher!"
+
+"Notes: main transducer feels sluggish at plus 40 altitude. Hull pressurization is problematic. I'm thinking icing is the probable factor."
+"A very astute observation, sir. Perhaps if you intend to visit other planets, you should include the we should improve the exosystems."
+"Connect to the sys. co. Have it reconfigure the shell metals. Use the gold titanium alloy from the seraphim tactical satellite. That should ensure a fuselage integrity while while maintaining power-to-weight ratio. Got it?"
+"Yes. Shall I render using proposed specifications?"
+"Thrill me."
+
+
+
+"The render is complete."
+"A little ostentatious, don't you think?"
+"What was I thinking? You're usually so discrete."
+"Tell you what, throw a little hot rod red in there."
+"Yes, that shall help you keep a low profile."
+
+"Sir, the more you struggle, the more this is going to hurt."
+"Be gentle. This is my first time. I designed this to come off so—. Ow! Hey, I really should be able to..."
+"Please, try not to move, sir."
+
+"How do you think the Mark I chest piece is gonna hold up?"
+"The suit's at 48% power and falling, sir. That chest piece was never designed for sustained flight."
+"Keep me posted."
+
+"Impressive! You've upgraded your armor! I've made some upgrades of my own!"
+"Sir, it appears that his suit can fly."
+"Duly noted. Take me to maximum altitude."
+"With only 15% power, the odds of reaching that al—."
+"I know the math! Do it!"
+
+"13% power, sir."
+"Climb!"
+"11%."
+"Keep going."
+"7% power."
+"Just leave it on the screen. Stop telling me."
+
+
+"Query complete, sir. Anton Vanko was a Soviet physicist who defected to the United States in 1963. However, he was accused of espionage and was deported in 1967. His son, Ivan, who is also a physicist, was convicted of selling Soviet-era weapons-grade plutonium to Pakistan, and served fifteen years in Kopeisk prison. No further records exist."
+
+
+"Wake up. Daddy's home."
+"Welcome home, sir. Congratulations on the opening ceremonies. They were such a success, as was your senate hearing. And may I say how refreshing it is to finally see you in a video with your clothing on, sir."
+"How many ounces a day of this gobbledygook am I supposed to drink?"
+"We are up to 80 ounces a day to counteract the symptoms, sir."
+"Check Palladium levels."
+"Blood toxicity, 24%. It appears that the continued use of the Iron Man suit is accelerating your condition. Another core has been depleted."
+"God, they're running out quick."
+"I have run simulations on every known element, and none can serve as a viable replacement for the palladium core. You are running out of both time and options. Unfortunately, the device that's keeping you alive is also killing you."
+
+"Sir, we will lose power before we penetrate that shell."
+
+"Sir, Agent Coulson of S.H.I.E.L.D. is on the line."
+"I'm not in. I'm actually out."
+"Sir, I'm afraid he's insisting."
+"Grow a spine, J.A.R.V.I.S.. I got a date."
+
+"As always sir, a great pleasure watching you work."
+
+"Sir, please may I request just a few hours to calibrate-"
+"Nope! Micro-repeater implanting sequence complete!"
+"As you wish, sir. I've also prepared a safety briefing for you to entirely ignore."
+"Which I will.
+
+"Check the heart, check the, check the, is it the brain?"
+"No sign of cardiac anomaly or unusual brain activity."
+"Okay, so I was poisoned?"
+"My diagnosis is that you've experienced a severe anxiety attack."
+"Me?"
+"All right. Look alive J.A.R.V.I.S.. It's play time. We've only got a couple days with this joystick so let's make the most of it. Update me on the structural and compositional analysis."
+"The scepter is alien. There are elements I can't quantify."
+"So there's elements you can."
+"The jewel appears to be a protective housing for something inside. Something powerful."
+"Like a reactor?"
+"Like a computer. I believe I'm ciphering code."
